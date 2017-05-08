@@ -1,4 +1,4 @@
-# Mac-Lock-me-with-Shortcut:
+# Mac lock with Shortcut (Windows+L):
 Mac lock with shortcut (Windows+L)
 
 1.  You download the "Lock.scpt" and open it with Script-Editor.
