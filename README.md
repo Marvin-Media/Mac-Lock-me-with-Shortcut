@@ -1,4 +1,4 @@
-# Mac-Lock-me-with-Shortcut
+# Mac-Lock-me-with-Shortcut:
 Mac lock with shortcut (Windows+L)
 
 1.  You download the "Lock.scpt" and open it with Script-Editor.
@@ -11,7 +11,7 @@ Mac lock with shortcut (Windows+L)
 
 
 
-# This is the Lock.scpt Code
+# This is the Lock.scpt Code:
 ```
 do shell script "/System/Library/CoreServices/Menu\\ Extras/User.menu/Contents/Resources/CGSession -suspend"
 ```
