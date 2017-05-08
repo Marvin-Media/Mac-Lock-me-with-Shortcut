@@ -8,7 +8,7 @@ Mac lock with shortcut (Windows+L)
 5.  Open Settings -> keyboard -> Short Cuts -> Service -> Lock.App -> ⇧⌘L
 6.  Press the short cut and it works fine.
 
-'''
+```
 
 fgdfgdfgdfgdfgdfg s fdsdfsdfsdfsdf
-'''
+```
