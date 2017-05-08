@@ -1,5 +1,5 @@
-# Mac lock with Shortcut (Windows+L):
-Mac lock with shortcut (Windows+L)
+# macOS lock with Shortcut (Windows+L):
+macOS lock with shortcut (Windows+L)
 
 1.  You download the "Lock.scpt" and open it with Script-Editor.
 2.  You export the Script as Lock.app and copy that to Programms.
